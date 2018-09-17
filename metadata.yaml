@@ -1,5 +1,8 @@
 _repo: Three-Years-in-Tibet_52594
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52594-h/images/cover.jpg
 creator:
   author:
     agent_name: Kawaguchi, Ekai
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46946
     wikipedia: https://en.wikipedia.org/wiki/Ekai_Kawaguchi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52594#Three-Years-in-Tibet
 gutenberg_issued: '2016-07-17'
 gutenberg_type: Text
 identifiers:
