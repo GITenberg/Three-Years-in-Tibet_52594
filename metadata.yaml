@@ -1,0 +1,31 @@
+_repo: Three-Years-in-Tibet_52594
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kawaguchi, Ekai
+    aliases:
+    - Ekai, Kawaguchi
+    - 河口慧海
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '46946'
+    url: http://www.gutenberg.org/2009/agents/46946
+    wikipedia: https://en.wikipedia.org/wiki/Ekai_Kawaguchi
+description: ''
+gutenberg_issued: '2016-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52594'
+  lccn: '10024445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kawaguchi, Ekai, 1866-1945'
+- !lcsh 'Tibet Autonomous Region (China) -- Social life and customs'
+- !lcc 'DS'
+- !lcsh 'Tibet Autonomous Region (China) -- Description and travel'
+- GITenberg
+title: Three Years in Tibet
+url: http://www.gutenberg.org/ebooks/52594
